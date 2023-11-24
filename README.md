@@ -8,18 +8,20 @@ Instructions:
 (1) Please select Assignment.Inneed.Persistence project to migrate. Because DbContext is there
 
 (2) After migration, bellow data will be seeded -
+
   Roles: -Administrator
          -Standard
   Users:
-  Full Name: Admin User
-  Email: admin@admin.com
-  Role: Administrator
-  Password: 123456
+   
+   Full Name: Admin User
+   Email: admin@admin.com
+   Role: Administrator
+   Password: 123456
  
-Full Name: Standard User
-Email: standard@standard.com
-Role: Standard
-Password: 123456
+  Full Name: Standard User
+  Email: standard@standard.com
+  Role: Standard
+  Password: 123456
 
   (Only Administrator User can view user list. URI: localhost/api/user)
   
