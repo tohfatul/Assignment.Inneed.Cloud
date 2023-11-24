@@ -6,6 +6,7 @@
 
 Instructions:
 (1) Please select Assignment.Inneed.Persistence project to migrate. Because DbContext is there
+
 (2) After migration, bellow data will be seeded -
   Roles: -Administrator
          -Standard
@@ -20,6 +21,7 @@ Instructions:
         Password: 123456
 
   (Only Administrator User can view user list. URI: localhost/api/user)
+  
 (3) Please use 'Administrator' or 'Standard' as role while creating new user. Otherwile validation will prevent to save. URI: localhost/api/user [http Post]
   Sample Json as payload to create user: 
     {
@@ -28,7 +30,7 @@ Instructions:
       "password": "123456",
       "roleName": "Administrator"
     }
-    
+  
 (4) Login URI localhost/api/user/login
   Sample json as payload to login:
   {
