@@ -1,10 +1,10 @@
 # Assignment.Inneed.Cloud
-# Assignment requirement could be done in a simple project but I made it detailed to showcase how I think in terms of SOLID and CLEAN architecture and best practices for big project 
-# I have used custom tables to store user information since assignment instruction was- not to use ASP.Net Core Identity
-# Besides Dependency Injection and Repository, I have also used CQRS and Mediator pattern only to showcase how we can seperate database read and write operations
+- Assignment requirement could be done in a simple project but I made it detailed to showcase how I think in terms of SOLID and CLEAN architecture and best practices for big project 
+- I have used custom tables to store user information since assignment instruction was- not to use ASP.Net Core Identity
+- Besides Dependency Injection and Repository, I have also used CQRS and Mediator pattern only to showcase how we can seperate database read and write operations
 
 
-#Instructions:
+Instructions:
 (1) Please select Assignment.Inneed.Persistence project to migrate. Because DbContext is there
 (2) After migration, bellow data will be seeded -
   Roles: -Administrator
