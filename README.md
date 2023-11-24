@@ -14,7 +14,6 @@ Instructions:
         Email: admin@admin.com
         Role: Administrator
         Password: 123456
-
         (2) Full Name: Standard User
         Email: standard@standard.com
         Role: Standard
