@@ -10,12 +10,12 @@ Instructions:
   Roles: -Administrator
          -Standard
   Users:
-        Full Name: Admin User
+        (1)Full Name: Admin User
         Email: admin@admin.com
         Role: Administrator
         Password: 123456
 
-        Full Name: Standard User
+        (2) Full Name: Standard User
         Email: standard@standard.com
         Role: Standard
         Password: 123456
@@ -29,6 +29,7 @@ Instructions:
       "password": "123456",
       "roleName": "Administrator"
     }
+    
 (4) Login URI localhost/api/user/login
   Sample json as payload to login:
   {
