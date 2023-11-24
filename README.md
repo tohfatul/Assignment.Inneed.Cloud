@@ -11,11 +11,13 @@ Instructions:
   Roles: -Administrator
          -Standard
   Users:
-        (1)Full Name: Admin User
+        Full Name: Admin User
         Email: admin@admin.com
         Role: Administrator
         Password: 123456
-        (2) Full Name: Standard User
+
+        
+        Full Name: Standard User
         Email: standard@standard.com
         Role: Standard
         Password: 123456
