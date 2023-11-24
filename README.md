@@ -11,16 +11,15 @@ Instructions:
   Roles: -Administrator
          -Standard
   Users:
-        Full Name: Admin User
-        Email: admin@admin.com
-        Role: Administrator
-        Password: 123456
-
-        
-        Full Name: Standard User
-        Email: standard@standard.com
-        Role: Standard
-        Password: 123456
+  Full Name: Admin User
+  Email: admin@admin.com
+  Role: Administrator
+  Password: 123456
+ 
+Full Name: Standard User
+Email: standard@standard.com
+Role: Standard
+Password: 123456
 
   (Only Administrator User can view user list. URI: localhost/api/user)
   
